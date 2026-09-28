@@ -1,0 +1,19 @@
+commit 94c7e0fd15f087d6c561888b78b0a8690128d22e
+Author: Jvasquez <juanchivasquez2019@gmail.com>
+Date:   Mon Sep 28 08:06:52 2026 +0000
+
+    Revert "Added temporary text file for testing revert"
+    
+    This reverts commit d6ed92731510cf1853dadbacc95a25ba27ddb2a0.
+
+commit d6ed92731510cf1853dadbacc95a25ba27ddb2a0
+Author: Jvasquez <juanchivasquez2019@gmail.com>
+Date:   Mon Sep 28 08:06:16 2026 +0000
+
+    Added temporary text file for testing revert
+
+commit f6d30855aeab45060958c7aac252f66bd84a53ee
+Author: Jvasquez <juanchivasquez2019@gmail.com>
+Date:   Mon Sep 28 07:12:32 2026 +0000
+
+    Added a comment line to hostname file
